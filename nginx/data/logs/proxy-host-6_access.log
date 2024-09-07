@@ -1,0 +1,4 @@
+[05/Sep/2024:06:34:46 +0000] - 404 404 - GET http ecommerce.evo-ways.com "/" [Client 172.70.43.44] [Length 133] [Gzip 1.02] [Sent-to 161.97.134.50] "-" "-"
+[06/Sep/2024:02:54:03 +0000] - 404 404 - GET http ecommerce.evo-ways.com "/" [Client 162.158.6.36] [Length 133] [Gzip 1.02] [Sent-to 161.97.134.50] "Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)" "-"
+[06/Sep/2024:07:09:41 +0000] - 404 404 - GET http ecommerce.evo-ways.com "/" [Client 172.71.135.87] [Length 133] [Gzip 1.02] [Sent-to 161.97.134.50] "Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com" "-"
+[07/Sep/2024:04:40:32 +0000] - 404 404 - GET http ecommerce.evo-ways.com "/" [Client 172.71.131.59] [Length 133] [Gzip 1.02] [Sent-to 161.97.134.50] "-" "-"
